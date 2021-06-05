@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="my_app">Choose Your Game Level</string>
+    <string name="hints">Hints</string>
+    <string name="identify_the_car_image">Identify the Car Image</string>
+    <string name="advanced_level">Advanced Level</string>
+    <string name="identify_the_car_make">Identify the Car Make</string>
+    <string name="car_images">Car Images</string>
+    <string name="identify">Identify</string>
+    <string name="results">Results</string>
+    <string name="answer">Answer</string>
+    <string name="random_image">Random Image</string>
+    <string name="guess_car">TextView</string>
+    <string name="submit">Submit</string>
+    <string name="fill_the_blanks" />
+    <string name="fill_the_name" />
+    <string name="guess_result">TextView</string>
+    <string name="show_answer" />
+    <string name="heading">Identify the Car Model for the given Text</string>
+    <string name="car_Model" />
+    <string name="car_image" />
+    <string name="secondcar" />
+    <string name="carimage3" />
+    <string name="result" />
+    <string name="Next_button">Next</string>
+    <string name="firstImage"></string>
+    <string name="thirdImage" />
+    <string name="secondName" />
+    <string name="Score" />
+    <string name="submitButton">Submit</string>
+    <string name="first_image">first Image</string>
+    <string name="second_image">second image</string>
+    <string name="third_image">third image</string>
+    <string name="show_Timer">Timer Switch</string>
+    <string name="showTimer" />
+    <string name="AdlTimer" />
+    <string name="firstAns" >TextView</string>
+    <string name="secAns">TextView</string>
+    <string name="thirdAns">TextView</string>
+    <string name="hintTimer" />
+    <string-array name="spinner_choices">
+        <item>Bmw</item>
+        <item>Mercedes Benz</item>
+        <item>Ferrari</item>
+        <item>Audi</item>
+        <item>Porsche</item>
+    </string-array>
+
+</resources>
